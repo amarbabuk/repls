@@ -10,6 +10,7 @@ import java.util.stream.Stream;
 
 //source: https://github.com/lokeshgupta1981/Core-Java/blob/master/src/main/java/com/howtodoinjava/core/datetime/BusinessDaysExamples.java
 //https://howtodoinjava.com/java/date-time/calculate-business-days/
+//http://sqlfiddle.com/#!4/5c345/2
 public class BusinessDaysExamples {
     public static void main(final String[] args) {
         LocalDate today = LocalDate.of(2020, 5, 5);
